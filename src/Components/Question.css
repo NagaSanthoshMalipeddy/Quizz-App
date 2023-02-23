@@ -1,0 +1,88 @@
+.first {
+    border: 1px solid black;
+    border-radius: 3px;
+    width:50%;
+    height:100px;
+}
+
+.qap{
+    margin-left: 150px;
+}
+
+.but{
+    margin-left: 5px;
+    width: fit-content;
+    background-color:#cfa351;
+}
+
+ul{
+    display: inline;
+}
+.h1{
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: bisque;
+    margin-left: 140px;
+}
+.stq {
+    background-color: rgb(219, 160, 31);
+    width: 80%;
+    height:40px;
+    margin-left: 140px;
+}
+
+div{
+    display: inline-block;
+}
+
+.sr{
+    margin-right: 120px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(58, 153, 58);
+    color: aliceblue;
+}
+
+#q1 {
+    color: aliceblue;
+    width: 600px;
+    height : 200px;
+    margin-right: 5px;
+    border: 3px solid black;
+    border-radius: 3px;
+    background-color: rgb(236, 63, 159);
+}
+#q2{
+    color: aliceblue;
+    width: 600px;;
+    height : 200px;
+    border: 3px solid black;
+    border-radius: 3px;
+    background-color: rgb(228, 66, 155);
+}
+#q3{
+    color: aliceblue;
+    width: 300px;
+    height : 200px;
+    border: 3px solid black;
+    border-radius: 3px;
+    background-color: rgb(228, 66, 155);
+}
+#q4{
+    color: aliceblue;
+    width: 300px;
+    height : 200px;
+    margin: 10px;
+    border: 3px solid black;
+    border-radius: 3px;
+    background-color: rgb(228, 66, 155);
+}
+#q5{
+    color: aliceblue;
+    width: 300px;
+    height : 200px;
+    margin: 10px;
+    border: 3px solid black;
+    border-radius: 3px;
+    background-color: rgb(228, 66, 155);
+}
